@@ -1,5 +1,5 @@
 {
-  "enabled": false,
-  "maintenance": false,
-  "message": "Parell TikTok saat ini sedang dinonaktifkan oleh pusat."
+  "enabled": true,
+  "maintenance": true,
+  "message": "Parell TikTok sedang dalam pemeliharaan."
 }
