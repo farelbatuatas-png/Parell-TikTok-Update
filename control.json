@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "maintenance": false,
-  "message": "Parell TikTok saat ini dinonaktifkan oleh pusat. Untuk memperoleh informasi lebih lanjut mengenai status layanan, silakan kunjungi Channel Parell TikTok."
+  "message": "Parell TikTok sedang aktif."
 }
