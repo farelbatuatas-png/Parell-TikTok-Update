@@ -1,1 +1,5 @@
-{ invalid
+{
+  "enabled": true,
+  "maintenance": false,
+  "message": "Parell TikTok sedang aktif."
+}
