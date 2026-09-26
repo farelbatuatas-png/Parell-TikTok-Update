@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "maintenance": true,
-  "message": "Layanan Parell TikTok sedang menjalani pemeliharaan. Silakan kunjungi Channel Parell TikTok untuk memperoleh informasi lebih lanjut mengenai status layanan."
+  "maintenance": false,
+  "message": "Parell TikTok sedang aktif."
 }
