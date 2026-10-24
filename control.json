@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "maintenance": false,
-  "message": "Parell EXT sedang aktif."
+  "message": "Parell EXT sedang dinonaktifkan sementara oleh pusat. Silakan kunjungi Channel Parell untuk mendapatkan informasi terbaru."
 }
