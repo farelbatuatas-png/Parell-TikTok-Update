@@ -1,5 +1,5 @@
 {
   "enabled": false,
-  "maintenance": true,
-  "message": "Parell EXT sedang dalam proses pembaruan. Saat ini sistem sedang diperbarui untuk meningkatkan stabilitas dan performa. Silakan kunjungi Channel PARELL untuk mendapatkan informasi terbaru."
+  "maintenance": false,
+  "message": "Parell EXT sedang dinonaktifkan sementara oleh pusat. Silakan kunjungi Channel Parell untuk mendapatkan informasi terbaru."
 }
